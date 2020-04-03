@@ -18,7 +18,7 @@ try {
 
 ## Example:
 ```
-test/test1.png png
+"C:\Users\Andrew\Desktop\aOldSample" jpg "C:\Users\Andrew\Desktop\aNewSample"
 ```
 ![Original Image](https://github.com/rstreet85/JCanny/blob/master/test/test1.png)
 ![Output Image](https://github.com/rstreet85/JCanny/blob/master/test/test1_canny.png)
